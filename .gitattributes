@@ -1,0 +1,7 @@
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=false
+*.c++ linguist-detectable=false
+*.dart linguist-detectable=true
+*.php linguist-detectable=true
+*.* linguist-language=Dart
